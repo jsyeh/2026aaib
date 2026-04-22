@@ -1,4 +1,4 @@
-/// week09-6.cpp 重覆 week09-5 做很多次
+/// week09-6.cpp 重覆 week09-5 做很多次 變成「泡泡排序法Bubble Sort」
 #include <stdio.h>
 int main()
 { /// 陣列有10個數字
